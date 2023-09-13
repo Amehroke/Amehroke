@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning **TensorFlow, Pytorch**
 
 - 💬 Ask me about **React, JS, Django**
+  
+- IBM Full Stack Software Developer Specialization 
 
 - 📫 How to reach me **Arashdeepsingh123@gmail.com**
 
