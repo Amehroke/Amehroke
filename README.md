@@ -8,7 +8,7 @@
   
 - IBM Full Stack Software Developer Specialization 
 
-- 📫 How to reach me **Arashdeepsingh123@gmail.com**
+- 📫 How to reach me **Arashdeepmehrokework@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
