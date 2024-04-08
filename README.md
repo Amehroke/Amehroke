@@ -1,7 +1,5 @@
 # Arashdeep Mehroke
 
-![MasterHead](https://github.com/Amehroke/header/blob/main/github-header-image%20(1).png?raw=true)
-
 ## 👋 About Me
 
 Hello, I'm Arashdeep Mehroke, a Computer Science graduate from U.C. Merced (2024), currently advancing my expertise in data science and machine learning at Georgia Tech for a Master's in Computer Analytics. With a strong passion for leveraging technology to solve complex problems, I'm deeply engaged in exploring the transformative power of machine learning and data analytics across various domains.
