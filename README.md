@@ -50,7 +50,3 @@ Hello, I'm Arashdeep Mehroke, a Computer Science graduate from U.C. Merced (2024
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arashdeep-singh-020398251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arashdeep-singh-020398251/" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amehroke&show_icons=true&locale=en&layout=compact" alt="amehroke" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amehroke&show_icons=true&locale=en" alt="amehroke" /></p>
