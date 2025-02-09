@@ -15,7 +15,9 @@ Hi there! I'm **Arashdeep Mehroke**, a passionate data scientist and machine lea
   **University of California, Merced**
   GPA: 3.466
   *Graduation Date: May 2024*
+  
   Honors: Dean’s Honor List, Chancellor’s Honor List
+  
   Key Courses: Algorithms, Data Structures, Software Engineering, Machine Learning, Computer Vision, Full Stack Web Development
 
 ## 💻 Experience
