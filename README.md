@@ -25,7 +25,7 @@ Hi there! I'm **Arashdeep Mehroke**, a passionate data scientist and machine lea
   - Created ETL pipelines and secured a $250,000 grant through data-driven insights.
   - Designed and deployed a chatbot using large language models to streamline citizen queries.
 
-- **ML Ops Engineer**, Western Digital *(Jan 2023 – May 2024)*
+- **Technical Lead**, Western Digital *(Jan 2023 – May 2024)*
   - Implemented large-scale data pipelines for defect detection, boosting training efficiency by 30%.
   - Enhanced prediction accuracy of defect classification models by 15% through hyperparameter tuning.
 
