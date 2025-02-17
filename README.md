@@ -51,14 +51,6 @@ Hi there! I'm **Arashdeep Mehroke**, a passionate data scientist and machine lea
 
 ## 🏅 Certifications
 
-- **IBM Full Stack Software Developer** *(August 2023)*
-  Gained expertise in:
-  - Frontend: HTML, CSS, JavaScript, React
-  - Backend: Node.js, Django, Flask
-  - DevOps: Docker, Kubernetes, CI/CD, Serverless computing
-  - Completed capstone SaaS project demonstrating end-to-end application deployment.
-  [Verification Link](https://coursera.org/verify/professional-cert/7E6PCHR9A8AZ)
-
 - **AWS Certified Machine Learning – Specialty** *(October 2023)*
   Gained expertise in:
   - Building, training, and deploying ML models on AWS SageMaker
@@ -67,6 +59,13 @@ Hi there! I'm **Arashdeep Mehroke**, a passionate data scientist and machine lea
   - Designing secure and scalable ML solutions in a cloud environment  
   [Verification Link](https://cp.certmetrics.com/amazon/en/public/verify/credential/c7a607da4cf34c9186baffc2b9f2788d))
 
+- **IBM Full Stack Software Developer** *(August 2023)*
+  Gained expertise in:
+  - Frontend: HTML, CSS, JavaScript, React
+  - Backend: Node.js, Django, Flask
+  - DevOps: Docker, Kubernetes, CI/CD, Serverless computing
+  - Completed capstone SaaS project demonstrating end-to-end application deployment.
+  [Verification Link](https://coursera.org/verify/professional-cert/7E6PCHR9A8AZ)
 
 ## 🛠️ Skills
 
