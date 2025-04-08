@@ -38,6 +38,21 @@ Hi there! I'm **Arashdeep Mehroke**, a passionate data scientist and machine lea
 - **Junior Data Scientist**, Blu-Lite Inc *(May 2018 – Dec 2021)*
   - Created dashboards and predictive models, resulting in a 15% increase in revenue.
   - Streamlined reporting processes with automated scripts, cutting manual effort by 20%.
+    
+## ✍️ Medium Articles
+
+I write about practical data science applications in local government, geospatial analytics, and privacy-aware solutions. Here are a few of my recent posts:
+
+- **[Addresses Anonymization Using .Shp Files](https://medium.com/@arashdeepsingh123/addresses-anonymization-using-shp-files-fe76947cb908)**  
+  Learn how to protect residential privacy by mapping addresses to their nearest street intersections using Python, GeoPandas, and shapefiles.
+
+- **[Mapping and Mitigating Urban Waste: Analyzing Illegal Dumping Trends (2020–2022)](https://medium.com/@arashdeepsingh123/spatial-analysis-of-illegal-dumping-hotspots-2020-2022-189b440f58ac)**  
+  A data-driven case study on how heatmaps and statistical analysis helped measure the effectiveness of clean-up events in reducing illegal dumping.
+
+- **[Spatial Analysis of Pedestrian Traffic Fatalities: Correlating Lighting, Signage, and Traffic Control](https://medium.com/@arashdeepsingh123/spatial-analysis-of-pedestrian-traffic-fatalities-in-stockton-ede386e68ca7)**  
+  An exploration of spatial patterns in pedestrian fatalities and their correlation with city infrastructure like lighting and signage using ArcGIS Pro.
+
+📚 *Read more at* [medium.com/@arashdeepmehroke](https://medium.com/@arashdeepsingh123)
 
 ## 🔍 Projects
 
